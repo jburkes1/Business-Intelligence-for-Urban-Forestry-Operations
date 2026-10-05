@@ -1,0 +1,8 @@
+"status_id","status"
+1,SEND
+2,INPROG
+3,ISSUED
+4,HOLD
+5,CLOSED
+6,CREW
+7,COMP
