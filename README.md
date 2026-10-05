@@ -20,7 +20,7 @@ These changes will yield a 10.6% reduction in SLA breach rates for tree trimming
 🖥️ **Interactive Dashboard:** 
 https://public.tableau.com/views/OperationalPerformanceforUrbanForestryDivision/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-📝 **SQL Queries:** 
+📝 **SQL Queries:**
 https://github.com/jburkes1/Business-Intelligence-for-Urban-Forestry-Operations/tree/28afd28f142e4a0414af76e51450166515dbea4f/scripts
 
 📈 **Presentation Deck:**
