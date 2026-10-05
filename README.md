@@ -1,5 +1,5 @@
 # Business-Intelligence-for-Urban-Forestry-Operations
-The Division Manager of Urban Forestry wants to understand which work zones and contractors are driving overall SLA compliance below target, and is the bottleneck caused by backlog age in specific service types or caused by low workforce capacity?
+A Root Cause Analysis of Urban Forestry work orders to understand which work zones and contractors are driving overall SLA compliance below target and determining if the bottleneck is caused by backlog age in specific service types or caused by low workforce capacity.
 
 ## 📌 Executive Summary
 **The Problem:** The Division Manager of Urban Forestry wants to understand which work zones and contractors are driving overall SLA compliance below target, and is the bottleneck caused by backlog age in specific service types or caused by low workforce capacity? 
