@@ -4,11 +4,13 @@ A root cause analysis of Urban Forestry work orders to understand which work zon
 ## 📌 Executive Summary
 **The Problem:** The Division Manager of Urban Forestry wants to understand which work zones and contractors are driving overall SLA compliance below target, and is the bottleneck caused by backlog age in specific service types or caused by low workforce capacity? 
 
-**The Solution:** Perform root cause analysis of tree maintenance work orders from 2025 to answer the following business questions: 
+**The Analysis:** Perform root cause analysis of tree maintenance work orders from 2025 to answer the following business questions: 
   
 * Why is overall SLA compliance dropping below target?
 * Why are tree trimming jobs missing their SLA at a high rate?
 * Which work zone is most underperforming on tree trimming? Why? 
+
+**The Solution:** Adjust the current contract terms to require an additional trimming crew in Zone 2 or reallocate zones to meet the trimming demand. 
 
 **The Impact:** 10.6% reduction in SLA breach rates for tree trimming in Zone 2.​
 
